@@ -55,7 +55,7 @@ High School Diploma, Computer Technology/Computer Systems Technician
 
 Cumulative GPA 3.8
   
-Trained to be a Linux user.
+Trained to be a Linux user
 
 Practiced troubleshooting on Linux operating systems.
 
