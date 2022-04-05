@@ -67,7 +67,7 @@ Experience in setting up a domain controller and creating domains.
 
 Created Python Scripts to perform some automated tasks.
 
-Installing configuring adjusting maintaining and troubleshooting operations on windows and Linux operating systems.
+Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.
 
 Experienced in setting networks between machines. Created several programs using Java Language
 
