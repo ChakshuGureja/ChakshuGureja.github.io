@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+## Portfolio
+Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator.
 
-You can use the [editor on GitHub](https://github.com/ChakshuGureja/chakshugureja.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
 
-### Markdown
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/1200px-NewTux.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/c/c0/Azure.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" alt="react" width="auto" height="40"/>
+   <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="angular" width="40" height="40"/>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Experience
 
-# Header 1
-## Header 2
-### Header 3
+### Warehouse Associate
 
-- Bulleted
-- List
+Hudson's Bay Company
+Sep 2021 - Present (7 months +)
 
-1. Numbered
-2. List
+Packed and labeled merchandise to prepare for loading and shipment to customers.
 
-**Bold** and _Italic_ and `Code` text
+Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. Packed and labeled merchandise to prepare for loading and shipment to 
+customers.
 
-[Link](url) and ![Image](src)
-```
+Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. Loaded trucks for outbound orders and unloaded trucks for inbound orders.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### English Teacher
 
-### Jekyll Themes
+Bright Route IELTS and Immigration
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChakshuGureja/chakshugureja.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Nov 2020 - Feb 2021 (4 months)
 
-### Support or Contact
+Built student confidence through positive reinforcement.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Engaged students and made lessons entertaining to hold interest and encourage learning.
+
+Instructed small groups of students in key subject concepts.
+
+Emphasized importance of good study habits and devised homework schedules to assist students in implementing tailored study plans.
+
+
+---
+
+## Education
+<p align='left'>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> Seneca College 
+
+High School Diploma, Computer Technology/Computer Systems Technician
+2021 - 2022
+
+Cumulative GPA 3.8
+  
+Trained to be a Linux user.
+
+Practiced troubleshooting on Linux operating systems.
+
+Designed Active Directory Users and Groups on windows server.
+
+Hands on Experience with Windows Server 2016 and 2019.
+
+Experience in setting up a domain controller and creating domains.
+
+Created Python Scripts to perform some automated tasks.
+
+Installing configuring adjusting maintaining and troubleshooting operations on windows and Linux operating systems.
+
+Experienced in setting networks between machines. Created several programs using Java Language
+
+
+---
+
+## Contact 📞
+  If you are looking forward to work with me, Feel free to contact me through
+  
+  <a href="https://www.linkedin.com/in/chakshu-gureja-5b6236229/"><img align="left" alt="Chakshu Gureja| Linkedin" width="40px" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ" /></a>
+ 
+ <a href="mailto:2001chakshugureja02@gmail.com"><img align="left" alt="Chakshu Gureja| Email" width="40px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" /></a>
+
+ 
+  <a href="https://www.instagram.com/chakshu2001/"><img align="left" alt="Chakshu Gureja| Instagram " width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" /></a>
