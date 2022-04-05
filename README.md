@@ -71,7 +71,6 @@ Installing configuring adjusting maintaining and troubleshooting operations on w
 
 Experienced in setting networks between machines. Created several programs using Java Language
 
-
----
+ 
 
 
