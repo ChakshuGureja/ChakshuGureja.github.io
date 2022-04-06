@@ -1,4 +1,4 @@
-## Portfolio
+## Portfolio               Resume:- <a href="https://drive.google.com/file/d/1NVxnDuqgHnaMfylK_bXi5NgG5WX8-7Jy/view?usp=sharing">Download Resume pdf </a>
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator.
 
 ---
@@ -72,8 +72,7 @@ Cumulative GPA 3.8 <br>
 
 -> Experienced in setting networks between machines. Created several programs using Java Language <br>
   
- Resume:-
-  <a href="https://drive.google.com/file/d/1NVxnDuqgHnaMfylK_bXi5NgG5WX8-7Jy/view?usp=sharing">Chakshu's Resume </a>
+
 
  
 
