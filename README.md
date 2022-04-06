@@ -20,8 +20,8 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 ### Warehouse Associate
 
-Hudson's Bay Company
-Sep 2021 - Present (7 months +)
+<b> Hudson's Bay Company 
+Sep 2021 - Present (7 months +) </b>
 
 Packed and labeled merchandise to prepare for loading and shipment to customers.
 
