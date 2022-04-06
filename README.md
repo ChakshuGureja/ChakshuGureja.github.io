@@ -1,3 +1,5 @@
+ <canvas id="myCanvas" width="200" height="100"></canvas>
+
 ## Portfolio     
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator.
 
@@ -51,10 +53,10 @@ Emphasized importance of good study habits and devised homework schedules to ass
 <p align='left'>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> Seneca College <br>
 
-High School Diploma, Computer Technology/Computer Systems Technician <br>
-2021 - 2022 <br>
+<p><b> High School Diploma, Computer Technology/Computer Systems Technician <br>
+2021 - 2022 <br> </b></p>
 
-Cumulative GPA 3.8 <br>
+<p><b> Cumulative GPA 3.8 <br></b></p>
   
 -> Trained to be a Linux user <br>
 
