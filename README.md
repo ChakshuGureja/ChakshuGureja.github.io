@@ -68,7 +68,7 @@ High School Diploma, Computer Technology/Computer Systems Technician <br>
 
 -> Created Python Scripts to perform some automated tasks. <br>
 
--> Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
+-> Installing, configuring, adjusting, maintaining and performed  troubleshooting operations on windows and Linux operating systems.<br>
 
 -> Experienced in setting networks between machines. Created several programs using Java Language <br>
 
