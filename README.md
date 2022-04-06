@@ -6,6 +6,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 ## Skills
 
 <p align='left'>
+  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/1200px-NewTux.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/c/c0/Azure.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050' height='30' width='auto' alt="js">
@@ -48,28 +49,28 @@ Emphasized importance of good study habits and devised homework schedules to ass
 
 ## Education
 <p align='left'>
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> Seneca College 
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> Seneca College <br>
 
-High School Diploma, Computer Technology/Computer Systems Technician
-2021 - 2022
+High School Diploma, Computer Technology/Computer Systems Technician <br>
+2021 - 2022 <br>
 
-Cumulative GPA 3.8
+Cumulative GPA 3.8 <br>
   
-Trained to be a Linux user
+Trained to be a Linux user <br>
 
-Practiced troubleshooting on Linux operating systems.
+Practiced troubleshooting on Linux operating systems. <br>
 
-Designed Active Directory Users and Groups on windows server.
+Designed Active Directory Users and Groups on windows server. <br>
 
-Hands on Experience with Windows Server 2016 and 2019.
+Hands on Experience with Windows Server 2016 and 2019.<br>
 
-Experience in setting up a domain controller and creating domains.
+Experience in setting up a domain controller and creating domains. <br>
 
-Created Python Scripts to perform some automated tasks.
+Created Python Scripts to perform some automated tasks. <br>
 
-Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.
+Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
 
-Experienced in setting networks between machines. Created several programs using Java Language
+Experienced in setting networks between machines. Created several programs using Java Language <br>
 
  
 
