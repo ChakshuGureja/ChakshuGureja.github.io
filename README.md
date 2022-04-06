@@ -14,7 +14,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
    <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="angular" width="40" height="40"/>
 </p>
 
----
+--- 
 
 ## Experience
 
