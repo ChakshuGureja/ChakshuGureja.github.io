@@ -1,5 +1,6 @@
-<p style="font-size:30px"> ## Portfolio  </p>  
-Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator.
+<p style="font-size:50px"> <b> <i> PORTFOLIO </b></i> </p>  
+<br>
+Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. <a href="https://drive.google.com/file/d/1NVxnDuqgHnaMfylK_bXi5NgG5WX8-7Jy/view?usp=sharing">Download Resume pdf </a>
 
 ---
 
@@ -75,5 +76,5 @@ Emphasized importance of good study habits and devised homework schedules to ass
 
 
  
- <a href="https://drive.google.com/file/d/1NVxnDuqgHnaMfylK_bXi5NgG5WX8-7Jy/view?usp=sharing">Download Resume pdf </a>
+
 
