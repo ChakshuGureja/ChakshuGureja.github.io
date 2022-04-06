@@ -1,6 +1,4 @@
- <canvas id="myCanvas" width="200" height="100"></canvas>
-
-## Portfolio     
+<p style="font-size:30px"> ## Portfolio  </p>  
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator.
 
 ---
