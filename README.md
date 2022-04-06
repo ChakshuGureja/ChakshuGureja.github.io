@@ -54,7 +54,7 @@ Emphasized importance of good study habits and devised homework schedules to ass
 High School Diploma, Computer Technology/Computer Systems Technician <br>
 2021 - 2022 <br>
 
-**Cumulative GPA 3.8** <br>
+Cumulative GPA 3.8 <br>
   
 -> Trained to be a Linux user <br>
 
@@ -68,7 +68,7 @@ High School Diploma, Computer Technology/Computer Systems Technician <br>
 
 -> Created Python Scripts to perform some automated tasks. <br>
 
--> Installing, configuring, adjusting, maintaining and performed  troubleshooting operations on windows and Linux operating systems.<br>
+-> Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
 
 -> Experienced in setting networks between machines. Created several programs using Java Language <br>
 
