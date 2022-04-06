@@ -71,6 +71,9 @@ Cumulative GPA 3.8 <br>
 -> Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
 
 -> Experienced in setting networks between machines. Created several programs using Java Language <br>
+  
+ Resume:-
+  <a href="https://drive.google.com/file/d/1NVxnDuqgHnaMfylK_bXi5NgG5WX8-7Jy/view?usp=sharing">Chakshu's Resume </a>
 
  
 
