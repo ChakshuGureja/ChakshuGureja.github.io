@@ -49,7 +49,7 @@ Emphasized importance of good study habits and devised homework schedules to ass
 
 ## Education
 <p align='left'>
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> Seneca College <br>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b> <br>
 
 <p><b> High School Diploma, Computer Technology/Computer Systems Technician <br>
 2021 - 2022 <br> </b></p>
