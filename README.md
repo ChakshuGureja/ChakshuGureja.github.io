@@ -72,14 +72,8 @@ Emphasized importance of good study habits and devised homework schedules to ass
 
 -> Experienced in setting networks between machines. Created several programs using Java Language <br>
 
-<b> For CoverLetter please click the link below </b> <br>
 
 
 
- <a href="https://docs.google.com/document/d/1tCeL0UkdPwP8Yi6U1Mk25GlTcrBanOYb/edit?usp=sharing&ouid=104235180913003921427&rtpof=true&sd=true">Download CoverLetter.docx  </a></p>
-  
-
-
- 
 
 
