@@ -32,9 +32,9 @@ Apr 2022 – Present </b>
 
 
 ### Cap2 Associate
-<img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart
+<img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart </b>
 
-Apr 2022 – Present </b>
+<b> Apr 2022 – Present </b>
 
   Preparing and resetting Receiving Area <br> 
   
@@ -53,7 +53,7 @@ Apr 2022 – Present </b>
 ### Warehouse Associate
 
 <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQi7W05U_oMwpbTVoL8wtMc5SLUYOCbicE83xvvjEdnDcad_O2e" alt="html" width="20" height="20"> <b> Hudson's Bay Company 
-Sep 2021 - Apr 2022 (8 mos) </b>
+<b> Sep 2021 - Apr 2022 (8 months) </b>
 
 Packed and labeled merchandise to prepare for loading and shipment to customers.
 
