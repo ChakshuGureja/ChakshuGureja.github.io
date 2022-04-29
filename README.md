@@ -22,11 +22,11 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College  Apr 2022 – Present </b>
 
-  To provide advice and guidance to students from the Student Mentoring in Life and Education on a wide range of issues throughout the year.
-  To actively aid and support students during the transition into College life and residences.
-  To help deliver a range of Welcome Week events to welcome students to the Seneca College.
-  To identify when a student may be experiencing difficulties and develop a plan of support with the guidance of Student Support Staff.
-  To have a good knowledge and understanding of other College departments and to refer students as appropriate onto further sources of help.
+  To provide advice and guidance to students from the Student Mentoring in Life and Education on a wide range of issues throughout the year.<br>
+  To actively aid and support students during the transition into College life and residences.<br>
+  To help deliver a range of Welcome Week events to welcome students to the Seneca College.<br>
+  To identify when a student may be experiencing difficulties and develop a plan of support with the guidance of Student Support Staff.<br>
+  To have a good knowledge and understanding of other College departments and to refer students as appropriate onto further sources of help.<br>
 
 
 ### Cap2 Associate
