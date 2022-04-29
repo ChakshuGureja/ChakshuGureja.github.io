@@ -20,7 +20,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 ### Peer Mentor 
 
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College  Apr 2022 – Present </b>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b>  Apr 2022 – Present 
 
   To provide advice and guidance to students from the Student Mentoring in Life and Education on a wide range of issues throughout the year.<br>
   To actively aid and support students during the transition into College life and residences.<br>
@@ -30,7 +30,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 
 ### Cap2 Associate
-<img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart </b> <b> Apr 2022 – Present </b>
+<img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart </b>  Apr 2022 – Present
 
   Preparing and resetting Receiving Area <br> 
   
@@ -48,8 +48,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 ### Warehouse Associate
 
-<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQi7W05U_oMwpbTVoL8wtMc5SLUYOCbicE83xvvjEdnDcad_O2e" alt="html" width="20" height="20"> <b> Hudson's Bay Company </b>
-<b> Sep 2021 - Apr 2022 (8 months) </b>
+<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQi7W05U_oMwpbTVoL8wtMc5SLUYOCbicE83xvvjEdnDcad_O2e" alt="html" width="20" height="20"> <b> Hudson's Bay Company </b> Sep 2021 - Apr 2022 (8 months)
 
 Packed and labeled merchandise to prepare for loading and shipment to customers.
 
