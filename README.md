@@ -1,5 +1,5 @@
 ##  PORTFOLIO  
-<p align='right'>  <a href="https://drive.google.com/file/d/1H42yfEJZ72IT7Hs_HREmp2qZNrBowJsk/view?usp=sharing">Download Resume pdf </a></p>
+<p align='right'>  <a href="https://drive.google.com/file/d/1xrdlEV7jIMx8SGtyM50hZkuxk25MH53p/view?usp=sharing">Download Resume pdf </a></p>
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
 
 
@@ -23,9 +23,13 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b>  Apr 2022 – Present 
 
   To provide advice and guidance to students from the Student Mentoring in Life and Education on a wide range of issues throughout the year.<br>
+  
   To actively aid and support students during the transition into College life and residences.<br>
+  
   To help deliver a range of Welcome Week events to welcome students to the Seneca College.<br>
+  
   To identify when a student may be experiencing difficulties and develop a plan of support with the guidance of Student Support Staff.<br>
+  
   To have a good knowledge and understanding of other College departments and to refer students as appropriate onto further sources of help.<br>
 
 
@@ -50,12 +54,16 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQi7W05U_oMwpbTVoL8wtMc5SLUYOCbicE83xvvjEdnDcad_O2e" alt="html" width="20" height="20"> <b> Hudson's Bay Company </b> Sep 2021 - Apr 2022 (8 months)
 
-Packed and labeled merchandise to prepare for loading and shipment to customers.
+   Packed and labeled merchandise to prepare for loading and shipment to customers.
 
-Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. Packed and labeled merchandise to prepare for loading and shipment to 
-customers.
+   Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. 
 
-Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. Loaded trucks for outbound orders and unloaded trucks for inbound orders.
+   Packed and labeled merchandise to prepare for loading and shipment to 
+   customers.
+
+   Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. 
+
+   Loaded trucks for outbound orders and unloaded trucks for inbound orders.
 
 ### English Teacher
 
