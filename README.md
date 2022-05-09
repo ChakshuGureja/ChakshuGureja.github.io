@@ -58,12 +58,8 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
    Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. 
 
-   Packed and labeled merchandise to prepare for loading and shipment to 
-   customers.
 
-   Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. 
-
-   Loaded trucks for outbound orders and unloaded trucks for inbound orders.
+  
 
 ### English Teacher
 
