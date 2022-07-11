@@ -1,5 +1,5 @@
 ##  PORTFOLIO  
-<p align='right'>  <a href="[[https://drive.google.com/file/d/1RhOLGfPmLMx69PNCkSZvlBquORpiS3Fb/view?usp=sharing](https://drive.google.com/file/d/1ki0HTp9qu-PbPz_5xVQHMupjeyfBpjhM/view?usp=sharing)](https://drive.google.com/file/d/1ki0HTp9qu-PbPz_5xVQHMupjeyfBpjhM/view?usp=sharing)">Download Resume pdf </a></p>
+<p align='right'>  <a href="https://drive.google.com/file/d/1ki0HTp9qu-PbPz_5xVQHMupjeyfBpjhM/view?usp=sharing">Download Resume pdf </a></p>
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
 
 
