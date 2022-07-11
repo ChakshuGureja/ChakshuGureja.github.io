@@ -97,7 +97,7 @@ T-force Logistics July 2021 - December 2021 <br>
 
 -> Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
 
--> Experienced in setting networks between machines. Created several programs using Java Language <br>
+-> Experienced in setting networks between machines. Created several programs using Java Language <br> 
 
 
 
