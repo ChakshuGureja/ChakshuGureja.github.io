@@ -1,5 +1,5 @@
 ##  PORTFOLIO  
-<p align='right'>  <a href="[https://drive.google.com/file/d/1RhOLGfPmLMx69PNCkSZvlBquORpiS3Fb/view?usp=sharing](https://drive.google.com/file/d/1ki0HTp9qu-PbPz_5xVQHMupjeyfBpjhM/view?usp=sharing)">Download Resume pdf </a></p>
+<p align='right'>  <a href="[[https://drive.google.com/file/d/1RhOLGfPmLMx69PNCkSZvlBquORpiS3Fb/view?usp=sharing](https://drive.google.com/file/d/1ki0HTp9qu-PbPz_5xVQHMupjeyfBpjhM/view?usp=sharing)](https://drive.google.com/file/d/1ki0HTp9qu-PbPz_5xVQHMupjeyfBpjhM/view?usp=sharing)">Download Resume pdf </a></p>
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
 
 
@@ -59,7 +59,7 @@ T-force Logistics July 2021 - December 2021 <br>
 
 <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQi7W05U_oMwpbTVoL8wtMc5SLUYOCbicE83xvvjEdnDcad_O2e" alt="html" width="20" height="20"> <b> Hudson's Bay Company </b> Sep 2021 - Apr 2022 (8 months)
 
-•Packed and labeled merchandise to prepare for loading and shipment to customers.
+•Packed and labeled merchandise to prepare for loading and shipment to customers.<br>
 •Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. 
 
 ### English Teacher
