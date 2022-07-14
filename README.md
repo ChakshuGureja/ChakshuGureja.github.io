@@ -52,11 +52,10 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 ## Education
 <p align='left'>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b> <br>
-
 <p><b> High School Diploma, Computer Technology/Computer Systems Technician <br>
 2021 - 2022 <br> </b></p>
+<p><b> Cumulative GPA 3.8 </b></p><a href="https://drive.google.com/file/d/1jUaZ11UB4zg3J_ezMM_T4VqYjC2JZyoa/view?usp=sharing">Download Unofficial Transcript pdf </a></p>
 
-<p><b> Cumulative GPA 3.8 <br></b></p> <p align='right'>  <a href="https://drive.google.com/file/d/1jUaZ11UB4zg3J_ezMM_T4VqYjC2JZyoa/view?usp=sharing">Download Unofficial Transcript pdf </a></p>
 -> Trained to be a Linux user <br>
 
 -> Practiced troubleshooting on Linux operating systems. <br>
@@ -71,7 +70,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 -> Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
 
--> Experienced in setting networks between machines. Created several programs using Java Language <br> 
+-> Experienced in setting networks between machines. Created several programs using Java Language.
 
 
 
