@@ -26,16 +26,6 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
   •Pulling pallets of merchandise to the sales floor for overnight processing <br> 
   •Assisting in stocking the sales floor as assigned and providing customer service when    necessary <br> 
   •Label and placing overstock merchandise. <br> 
-### Warehouse Cordinator
-<b> T-force Logistics June 2022 - present </b><br>
-
-•Responsible for providing recommendation of need for more drivers.<br>
-•Manage routes of drivers as required.<br>
-•Responsible for generating several reports such as performance reports and attendance of drivers.<br>
-•Scannning all the undelivered parcels in their respective folders.<br>
-•Emailing appropriate exception to the customers.<br>
-•Calling customers for the correction of their addresses.<br>
-•Communicated with the other department as required.
 
 ### Peer Mentor 
 
@@ -46,21 +36,6 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 •To help deliver a range of Welcome Week events to welcome students to the Seneca College.<br>
 •To identify when a student may be experiencing difficulties and develop a plan of support with the guidance of Student Support Staff.<br>
 •To have a good knowledge and understanding of other College departments and to refer students as appropriate onto further sources of help.<br>
-
-### Warehouse Associate
-T-force Logistics July 2021 - December 2021 <br> 
-•Responsible for sorting online orders respective to their postal code.<br>
-•Unloaded trucks loaded with online orders.<br>
-•Communicated with other departments as needed.<br>
-•Helped various drivers to load their vehicle with their orders.<br>
-•Capable of setting routes for the drivers.
-
-### Warehouse Associate
-
-<img src="http://t1.gstatic.com/images?q=tbn:ANd9GcQi7W05U_oMwpbTVoL8wtMc5SLUYOCbicE83xvvjEdnDcad_O2e" alt="html" width="20" height="20"> <b> Hudson's Bay Company </b> Sep 2021 - Apr 2022 (8 months)
-
-•Packed and labeled merchandise to prepare for loading and shipment to customers.<br>
-•Picked and prepared numerous daily shipments in controlled atmosphere warehouse environment. 
 
 ### English Teacher
 
@@ -81,8 +56,7 @@ T-force Logistics July 2021 - December 2021 <br>
 <p><b> High School Diploma, Computer Technology/Computer Systems Technician <br>
 2021 - 2022 <br> </b></p>
 
-<p><b> Cumulative GPA 3.8 <br></b></p>
-  
+<p><b> Cumulative GPA 3.8 <br></b></p> <p align='right'>  <a href="https://drive.google.com/file/d/1jUaZ11UB4zg3J_ezMM_T4VqYjC2JZyoa/view?usp=sharing">Download Unofficial Transcript pdf </a></p>
 -> Trained to be a Linux user <br>
 
 -> Practiced troubleshooting on Linux operating systems. <br>
