@@ -43,7 +43,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 <p> High School Diploma, Computer Technology/Computer Systems Technician <br>
 2021 - 2022 <br></p>
 
-## Cumulative GPA - 3.8
+<b> Cumulative GPA - 3.8</b><br>
 <a href="https://drive.google.com/file/d/1jUaZ11UB4zg3J_ezMM_T4VqYjC2JZyoa/view?usp=sharing">Download Unofficial Transcript pdf </a></p>
 
 # Interests
