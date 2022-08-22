@@ -1,9 +1,9 @@
-##  PORTFOLIO  
-<p align='right'>  <a href="https://drive.google.com/file/d/1qVnV6wL_HreFo86fflDFRoQ8-21vOytV/view?usp=sharing">Download Resume pdf </a></p>
+#  PORTFOLIO  
+<p align='right'>  <a href="https://drive.google.com/file/d/1R9KdeFXvnHNR1NjrsuE3WDT2UKxlS8Hw/view?usp=sharing">Download Resume pdf </a></p>
 Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
 
 
-## Skills
+# Skills
 
 <p align='left'>
   
@@ -16,8 +16,8 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 
 --- 
 
-## Experience
-### Cap2 Associate
+# Experience
+## Cap2 Associate
 <img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart </b>  Apr 2022 – Present <br>
   •Preparing and resetting Receiving Area <br> 
   •Unloading and sorting general merchandise trailers <br> 
@@ -27,7 +27,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
   •Assisting in stocking the sales floor as assigned and providing customer service when    necessary <br> 
   •Label and placing overstock merchandise. <br> 
 
-### Peer Mentor 
+## Peer Mentor 
 
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b>  Apr 2022 – July 2022 <br>
 
@@ -37,40 +37,29 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 •To identify when a student may be experiencing difficulties and develop a plan of support with the guidance of Student Support Staff.<br>
 •To have a good knowledge and understanding of other College departments and to refer students as appropriate onto further sources of help.<br>
 
-### English Teacher
-
-<b> Bright Route IELTS and Immigration  Nov 2020 - Feb 2021 (4 months) </b>
-
-•Built student confidence through positive reinforcement.
-•Engaged students and made lessons entertaining to hold interest and encourage learning.
-•Instructed small groups of students in key subject concepts.
-•Emphasized importance of good study habits and devised homework schedules to assist students in implementing tailored study plans.
-
-
----
-
-## Education
+# Education
 <p align='left'>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b> <br>
 <p><b> High School Diploma, Computer Technology/Computer Systems Technician <br>
 2021 - 2022 <br> </b></p>
 <p><b> Cumulative GPA 3.8 </b></p><a href="https://drive.google.com/file/d/1jUaZ11UB4zg3J_ezMM_T4VqYjC2JZyoa/view?usp=sharing">Download Unofficial Transcript pdf </a></p>
 
--> Trained to be a Linux user <br>
+# Interests
+• System Administration for Linux.<br>
+• Specialized in technical support.<br>
+• Local-area network administrator, personal computer technician.<br>
+• Technician for computer networks.<br>
+• Helpdesk assistance
 
--> Practiced troubleshooting on Linux operating systems. <br>
+# Licenses & Certifications
+• Red Hat Certified System Administrator (RHCSA) (Training Course)
 
--> Designed Active Directory Users and Groups on windows server. <br>
+# Honors & Awards
+|Designation | Organization |
+|-|-|
+|Peer Mentor |Seneca College|
+|Volunteer|Canadian Hindu Cultural Center|
 
--> Hands on Experience with Windows Server 2016 and 2019.<br>
-
--> Experience in setting up a domain controller and creating domains. <br>
-
--> Created Python Scripts to perform some automated tasks. <br>
-
--> Installing, configuring, adjusting, maintaining and performed troubleshooting operations on windows and Linux operating systems.<br>
-
--> Experienced in setting networks between machines. Created several programs using Java Language.
 
 
 
