@@ -72,8 +72,8 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 • Red Hat Certified System Administrator (RHCSA) (Training Course)
 
 # Honors & Awards
-Peer Mentor at Seneca College <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a></p> <br>
-President's Honors List Summer2022 <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a></p> <br> 
+Peer Mentor at Seneca College <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a> </p> <br>
+President's Honors List Summer2022 <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a> </p> <br> 
 Volunteer at Canadian Hindu Cultural Center 
 
 
