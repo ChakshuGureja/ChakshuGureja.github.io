@@ -44,7 +44,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 2021 - 2022 <br></p>
 
 <b> Cumulative GPA - 3.8</b><br>
-<a href="https://drive.google.com/file/d/1jUaZ11UB4zg3J_ezMM_T4VqYjC2JZyoa/view?usp=sharing">Download Unofficial Transcript pdf </a></p>
+<a href="https://drive.google.com/file/d/1G3JxZUvoFqBkoTv_LiNY1mGbcvWgKlcJ/view?usp=sharing">Download Transcript pdf </a></p>
 
 # Interests
 • System Administration for Linux.<br>
@@ -57,8 +57,10 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 • Red Hat Certified System Administrator (RHCSA) (Training Course)
 
 # Honors & Awards
-Peer Mentor at Seneca College <br>
-Volunteer at Canadian Hindu Cultural Center
+Peer Mentor at Seneca College <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a></p> <br>
+President's Honors List Summer2022 <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a></p> <br> 
+Volunteer at Canadian Hindu Cultural Center 
+
 
 
 
