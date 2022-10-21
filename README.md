@@ -17,6 +17,21 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 --- 
 
 # Experience
+## Warehouse Associate
+  <img src="http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" alt="html" width="20" height="20"><b> Amazon </b>
+  Oct 2022 - Present (1 month +) <br>
+  •Organizing packages for delivery by the driver.<br>
+  •Making quick trips of the warehouse pick parcels for the driver.<br>
+  •Controlling traffic in the warehouse and addressing problems.<br>
+  •Handling packages and inducting them.<br>
+## Warehouse Cordinator
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpNq-tqFYWFdVp1BVmS8xraIMLa_7GdZFt9bd0iSE&s" alt="html" width="20" height="20"><b> TForce Logistics </b>
+   May 2022 - Oct 2022 (6 months)<br>
+  •Managing conflict and having the ability to resolve it swiftly.<br>
+  •Using Global Positioning Systems to monitor the location of the drivers.<br>
+  •Making sure that customers receive equipment on time.<br>
+  •Generating various reports to track the drivers' and customers' performances.<br>
+  •Responding to escalated issues and fixing incorrect addresses.<br>
 ## Cap2 Associate
 <img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart </b>  Apr 2022 – Present <br>
   •Preparing and resetting Receiving Area <br> 
