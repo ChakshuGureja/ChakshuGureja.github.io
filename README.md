@@ -1,6 +1,6 @@
 #  PORTFOLIO  
 <p align='right'>  <a href="https://drive.google.com/file/d/1R9KdeFXvnHNR1NjrsuE3WDT2UKxlS8Hw/view?usp=sharing">Download Resume pdf </a></p>
-Hi, My name is Chakshu Gureja. I am an international student currently pursuing Computer System's Technician at Seneca College. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
+Hi, My name is Chakshu Gureja, was enrolled at Seneca College in Computer System's Technician program. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
 
 
 # Skills
@@ -72,7 +72,7 @@ Hi, My name is Chakshu Gureja. I am an international student currently pursuing 
 • Red Hat Certified System Administrator (RHCSA) (Training Course)
 
 # Honors & Awards
-Peer Mentor at Seneca College <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a>  <br>
+Peer Mentor at Seneca College <a href="https://drive.google.com/file/d/1hi1NHzFQZ3qk8mmBmzy34jgSe7QyR4cC/view?usp=drivesdk"> Download Certificate </a>  <br>
 President's Honors List Summer2022 <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a>  <br> 
 Volunteer at Canadian Hindu Cultural Center 
 
