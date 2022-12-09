@@ -1,5 +1,5 @@
 #  PORTFOLIO  
-<p align='right'>  <a href="https://drive.google.com/file/d/1R9KdeFXvnHNR1NjrsuE3WDT2UKxlS8Hw/view?usp=sharing">Download Resume pdf </a></p>
+<p align='right'>  <a href="https://drive.google.com/file/d/1D2Z4rTCjYlNJ6rgQ-Du0vPDonCH2111y/view?usp=share_link">Download Resume pdf </a></p>
 Hi, My name is Chakshu Gureja, was enrolled at Seneca College in Computer System's Technician program. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
 
 
