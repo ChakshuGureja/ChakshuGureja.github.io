@@ -80,8 +80,8 @@ Volunteer at Canadian Hindu Cultural Center
 # Diploma
 <p align='left'>  <a href="https://drive.google.com/file/d/122zBEFZtvAFRUMKzFtKShSYqaC1Yne1U/view?usp=share_link">Download Diploma pdf </a></p>
 
-# Course Outline 
-<p align='left'>  <a href="https://docs.google.com/document/d/1vZnR0S2wOfbLHaOa32WKM6Gi-Gij3mXF/edit?usp=share_link&ouid=104235180913003921427&rtpof=true&sd=true">Download Course Outline </a></p>
+# References
+<p align='left'>  <a href="https://www.linkedin.com/in/harsh-bassi-9308b8158/">Reference of Network Technologist at Seneca College </a></p>
 
 
 
