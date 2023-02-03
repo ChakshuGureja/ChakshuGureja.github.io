@@ -81,7 +81,7 @@ Volunteer at Canadian Hindu Cultural Center
 <p align='left'>  <a href="https://drive.google.com/file/d/122zBEFZtvAFRUMKzFtKShSYqaC1Yne1U/view?usp=share_link">Download Diploma pdf </a></p>
 
 # References
-<p align='left'>  <a href="https://www.linkedin.com/in/harsh-bassi-9308b8158/">Reference of Network Technologist at Seneca College </a></p>
+<p align='left'> <a href="https://www.linkedin.com/in/chakshu-gureja-5b6236229/"><img align="left" width="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ" /></a> <a href="https://www.linkedin.com/in/harsh-bassi-9308b8158/">Reference of Network Technologist at Seneca College </a></p>
 
 
 
