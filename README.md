@@ -1,5 +1,5 @@
 #  PORTFOLIO  
-<p align='right'>  <a href="https://drive.google.com/file/d/1FlMg0qfEOWrgr8PKT1fee0oDVfZ3mFdq/view?usp=share_link">Download Resume pdf </a></p>
+<p align='right'>  <a href="https://drive.google.com/file/d/1vPPG-IrsSXRiWFQoF2xRpFI3eyan7j20/view?usp=share_link">Download Resume pdf </a></p>
 I recently completed my Computer Systems Technician diploma with a cumulative GPA of 3.8/4.0 at Seneca College in Toronto, Ontario. During my time at Seneca, I received several awards and certifications, including serving as a peer mentor and earning a spot on the President's Honors List. I also volunteered at the Canadian Hindu Cultural Center.
 My technical skills include system administration for Linux, AWS, Python scripting, and more. I am also specialized in technical support, local-area network administration, and helpdesk assistance. In terms of soft skills, I am an excellent communicator and a dedicated team player.
 
