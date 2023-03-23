@@ -1,7 +1,7 @@
 #  PORTFOLIO  
 <p align='right'>  <a href="https://drive.google.com/file/d/1FlMg0qfEOWrgr8PKT1fee0oDVfZ3mFdq/view?usp=share_link">Download Resume pdf </a></p>
-Hi, My name is Chakshu Gureja, was enrolled at Seneca College in Computer System's Technician program. I am a Tech-Savvy and i worked hard to hone my skills in Networking, Java language, Python language, Linux Operating System. I am really working hard to obtain my goal of becoming a professional Linux System Administrator. 
-
+I recently completed my Computer Systems Technician diploma with a cumulative GPA of 3.8/4.0 at Seneca College in Toronto, Ontario. During my time at Seneca, I received several awards and certifications, including serving as a peer mentor and earning a spot on the President's Honors List. I also volunteered at the Canadian Hindu Cultural Center.
+My technical skills include system administration for Linux, AWS, Python scripting, and more. I am also specialized in technical support, local-area network administration, and helpdesk assistance. In terms of soft skills, I am an excellent communicator and a dedicated team player.
 
 # Skills
 
@@ -19,39 +19,14 @@ Hi, My name is Chakshu Gureja, was enrolled at Seneca College in Computer System
 # Experience
 ## Warehouse Associate
   <img src="http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG" alt="html" width="20" height="20"><b> Amazon </b>
-  Oct 2022 - Present (1 month +) <br>
-  •Organizing packages for delivery by the driver.<br>
-  •Making quick trips of the warehouse pick parcels for the driver.<br>
-  •Controlling traffic in the warehouse and addressing problems.<br>
-  •Handling packages and inducting them.<br>
+  Oct 2022 - Present (6 month +)
 ## Warehouse Cordinator
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpNq-tqFYWFdVp1BVmS8xraIMLa_7GdZFt9bd0iSE&s" alt="html" width="20" height="20"><b> TForce Logistics </b>
    May 2022 - Oct 2022 (6 months)<br>
-  •Managing conflict and having the ability to resolve it swiftly.<br>
-  •Using Global Positioning Systems to monitor the location of the drivers.<br>
-  •Making sure that customers receive equipment on time.<br>
-  •Generating various reports to track the drivers' and customers' performances.<br>
-  •Responding to escalated issues and fixing incorrect addresses.<br>
 ## Cap2 Associate
 <img src="https://cdn.mos.cms.futurecdn.net/5StAbRHLA4ZdyzQZVivm2c-970-80.jpg.webp" alt="html" width="20" height="20"> <b> Walmart </b>  Apr 2022 – Present <br>
-  •Preparing and resetting Receiving Area <br> 
-  •Unloading and sorting general merchandise trailers <br> 
-  •Completing live unloading of other types of merchandise <br> 
-  •Maintaining cold chain for refrigerated and frozen receiving and stocking <br> 
-  •Pulling pallets of merchandise to the sales floor for overnight processing <br> 
-  •Assisting in stocking the sales floor as assigned and providing customer service when    necessary <br> 
-  •Label and placing overstock merchandise. <br> 
-
 ## Peer Mentor 
-
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b>  Apr 2022 – July 2022 <br>
-
-•To provide advice and guidance to students from the Student Mentoring in Life and Education on a wide range of issues throughout the year.<br>
-•To actively aid and support students during the transition into College life and residences.<br>
-•To help deliver a range of Welcome Week events to welcome students to the Seneca College.<br>
-•To identify when a student may be experiencing difficulties and develop a plan of support with the guidance of Student Support Staff.<br>
-•To have a good knowledge and understanding of other College departments and to refer students as appropriate onto further sources of help.<br>
-
 # Education
 <p align='left'>
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/tl1pb3qhlkjxqyyartnz" alt="html" width="20" height="20"> <b> Seneca College </b> <br>
@@ -61,13 +36,6 @@ Hi, My name is Chakshu Gureja, was enrolled at Seneca College in Computer System
 <b> Cumulative GPA - 3.8</b><br>
 <a href="https://drive.google.com/file/d/1G3JxZUvoFqBkoTv_LiNY1mGbcvWgKlcJ/view?usp=sharing">Download Transcript pdf </a></p>
 
-# Interests
-• System Administration for Linux.<br>
-• Specialized in technical support.<br>
-• Local-area network administrator, personal computer technician.<br>
-• Technician for computer networks.<br>
-• Helpdesk assistance
-
 # Licenses & Certifications
 • Red Hat Certified System Administrator (RHCSA) (Training Course)
 
@@ -75,10 +43,6 @@ Hi, My name is Chakshu Gureja, was enrolled at Seneca College in Computer System
 Peer Mentor at Seneca College <a href="https://drive.google.com/file/d/1hi1NHzFQZ3qk8mmBmzy34jgSe7QyR4cC/view?usp=drivesdk"> Download Certificate </a>  <br>
 President's Honors List Summer2022 <a href="https://drive.google.com/file/d/17ND2zlRc8KGHSy6kmuz2WsdJEUgIwsK9/view?usp=sharing"> Download Certificate </a>  <br> 
 Volunteer at Canadian Hindu Cultural Center 
-
-
-# Diploma
-<p align='left'>  <a href="https://drive.google.com/file/d/122zBEFZtvAFRUMKzFtKShSYqaC1Yne1U/view?usp=share_link">Download Diploma pdf </a></p>
 
 
 
